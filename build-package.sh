@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DIR=$(mktemp -d)
-HUGO_VERSION=0.17
+HUGO_VERSION=0.37
 
 cd $DIR
 
